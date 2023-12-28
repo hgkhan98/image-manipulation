@@ -1,0 +1,60 @@
+Hiba Khan
+CS 5008 Summer 2023
+Homework 10
+
+Load Image:
+- Click the "Load Image" button on the left side.
+- A file chooser dialog will appear.
+- Select an image file in the following formats: PPM, PNG or JPEG.
+- The loaded image will be displayed in the center.
+
+Save Image:
+- Click the "Save Image" button on the left side.
+- A file chooser dialog will appear.
+- Choose a location and enter a file name and format from the following: PPM, PNG or JPEG.
+
+Brighten/darken:
+- Click the "Brighten" button on the right side.
+- Enter an integer value in the dialog box.
+- Enter a positive value to brighten and a negative value to darken.
+- The displayed image will update.
+
+Value-component:
+- Click the "Value-component" button on the right side.
+- The displayed image will update.
+
+Intensity-component:
+- Click the "Intensity-component" button on the right side.
+- The displayed image will update.
+
+Luma-component:
+- Click the "Luma-component" button on the right side.
+- The displayed image will update.
+
+Red-component:
+- Click the "Red-component" button on the right side.
+- The displayed image will update.
+
+Green-component:
+- Click the "Green-component" button on the right side.
+- The displayed image will update.
+
+Blue-component:
+- Click the "Blue-component" button on the right side.
+- The displayed image will update.
+
+Blur:
+- Click the "Blur" button on the right side.
+- The displayed image will update.
+
+Sharpen:
+- Click the "Sharpen" button on the right side.
+- The displayed image will update.
+
+Grayscale:
+- Click the "Grayscale" button on the right side.
+- The displayed image will update.
+
+Sepia:
+- Click the "Sepia" button on the right side.
+- The displayed image will update.

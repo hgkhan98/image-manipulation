@@ -1,0 +1,13 @@
+load res/panda.jpg panda
+blur panda panda-blur
+sharpen panda panda-sharpen
+grayscale panda panda-grayscale
+sepia panda panda-sepia
+brighten 10 panda panda-brighten
+value-component panda panda-value
+intensity-component panda panda-intensity
+luma-component panda panda-luma
+red-component panda panda-red
+green-component panda panda-green
+blue-component panda panda-blue
+save res/panda-blur-script.jpg panda-blur
